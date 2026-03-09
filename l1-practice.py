@@ -1,3 +1,4 @@
+print("hello world")
 # The sample string we will work with
 text = "  python is Amazing, isn't it?  "
 
